@@ -1,0 +1,85 @@
+/* Smart Phone */ 
+
+@media (max-width:401px)
+{
+    #contact .form-group input.address,
+    #contact .form-group input.postal
+    {
+        width:48%
+    }
+    
+    #clients .clients-header p
+    {
+        font-size:19px
+    }
+    
+    #clients div.media-left
+    {
+        display:block
+    }
+    
+    #clients div.media-left img
+    {
+        margin:0 auto 30px;
+    }
+    
+    #contact .form-group input[type="submit"]
+    {
+        width:40%;
+        margin-bottom:50px;
+    }
+    
+    #contact .advantage
+    {
+        width:93%;
+        padding-right:3%;
+        padding-left:4%;
+    }
+}
+
+@media (max-width:767px)
+{
+    #our-team .our-team-info .our-team-header:after,
+    #clients .clients-header h1:after
+    {
+        width:20%;
+        left:40%
+    }
+    
+    .footer-info
+    {
+        text-align:center
+    }
+    
+    #contact .advantage
+    {
+        width:93%;
+        padding-right:3%;
+        padding-left:4%;
+    }
+    
+    
+    
+}
+
+/* Small Screen */
+
+@media (min-width:768px) and (max-width:991)
+{
+    
+}
+
+/* medium Screen */
+
+@media (min-width:992px) and (max-width:1199)
+{
+    
+}
+
+/* large Screen */
+
+@media (min-width:1200px)
+{
+    
+}
+

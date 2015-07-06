@@ -1,0 +1,33 @@
+{
+  "short_name": "Ma'an",
+  "name": "OG Foundation",
+  "icons": [
+    {
+      "src": "img/logomaaan.png",
+      "sizes": "36x36"
+    },
+    {
+      "src": "img/logomaaan.png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "img/logomaaan.png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "img/logomaaan.png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "img/logomaaan.png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "img/logomaaan.png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "standalone" ,
+  "orientation": "portrait"
+}
